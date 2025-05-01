@@ -8,7 +8,7 @@ Traditional phishing detection relies on URLs or blacklists, which are often byp
 ## Technologies Used
 
 - Python
-- PyTorch / DGL (Deep Graph Library)
+- PyTorch 
 - Natural Language Processing (NLP)
 - Graph Convolutional Networks (GCN)
 
